@@ -2,7 +2,9 @@
 
 Yet another conway's game
 
+## [Play with online demo!](https://codepen.io/Ivana-/full/YoXgQm)
 
+![alt text](https://user-images.githubusercontent.com/10473034/59426410-cba09400-8de0-11e9-96d9-6352fab36ac7.png "Screenshot")
 
 ## Development Mode
 
